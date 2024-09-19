@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/atlas/static/css/main.3a299c06.css",
+    "main.js": "/atlas/static/js/main.8a66a301.js",
+    "static/media/Login.png": "/atlas/static/media/Login.53066ce6f6afd77d1c84.png",
+    "static/media/CCI_logo.png": "/atlas/static/media/CCI_logo.00dcf1e89ec98d92e5b0.png",
+    "static/media/Question.png": "/atlas/static/media/Question.94b2b5e997d99e04fe7d.png",
+    "static/media/blank-profile-picture-973460_1280.webp": "/atlas/static/media/blank-profile-picture-973460_1280.7a6a6c54279a54d1977c.webp",
+    "index.html": "/atlas/index.html",
+    "main.3a299c06.css.map": "/atlas/static/css/main.3a299c06.css.map",
+    "main.8a66a301.js.map": "/atlas/static/js/main.8a66a301.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3a299c06.css",
+    "static/js/main.8a66a301.js"
+  ]
+}
